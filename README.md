@@ -1,7 +1,6 @@
 - 👋 Hi, I’m vjkumar
 - 👀 Doing Full Stack Web Develpment course.
 - 🌱 Recently I have completed java backend course from geeksforgeeks.
-- 💞️Problem solver.
 - 📫 How to reach me - https://www.linkedin.com/in/vijayk18/...
 
 <!---
