@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/letsmailvjkumar?tab=repositories](https://github.com/letsmailvjkumar?tab=repositories)
 
