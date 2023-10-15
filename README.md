@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vijaykumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![Holopin Badge](https://holopin.me/letsmailvjkumar)](https://holopin.io/@letsmailvjkumar)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letsmailvjkumar&label=Profile%20views&color=0e75b6&style=flat" alt="letsmailvjkumar" /> </p>
 
-
+<p>[![Holopin Badge](https://holopin.me/letsmailvjkumar)](https://holopin.io/@letsmailvjkumar)</p>
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/letsmailvjkumar?tab=repositories](https://github.com/letsmailvjkumar?tab=repositories)
