@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letsmailvjkumar&label=Profile%20views&color=0e75b6&style=flat" alt="letsmailvjkumar" /> </p>
-[![@rphi's Holopin board](https://holopin.me/letsmailvjkumar)](https://holopin.io/@letsmailvjkumar)
+[![An image of @letsmailvjkumar's Holopin badges](https://holopin.me/letsmailvjkumar)](https://holopin.io/@letsmailvjkumar)
 
 
 - 🌱 I’m currently learning **MERN**
