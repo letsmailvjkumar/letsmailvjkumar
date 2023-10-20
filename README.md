@@ -24,8 +24,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href='https://skillicons.dev/icons?i=js,html,css,wasm'>
-  <img src="https://skillicons.dev">
+<a href='https://skillicons.dev'>
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm">
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=letsmailvjkumar&show_icons=true&locale=en&layout=compact" alt="letsmailvjkumar" /></p>
