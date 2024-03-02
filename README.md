@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letsmailvjkumar&label=Profile%20views&color=0e75b6&style=flat" alt="letsmailvjkumar" /> </p>
 
-<a href='https://holopin.io/@letsmailvjkumar'>
-<img src='https://holopin.me/letsmailvjkumar'>
-</a>
+
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/letsmailvjkumar?tab=repositories](https://github.com/letsmailvjkumar?tab=repositories)
